@@ -2,7 +2,7 @@
 *Estudante do Centro Universitário Facens, trabalho com RPA (python, UiPath, Power Automate) e estudo web development (NextJs, ReactJs, Typescript)*
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/renanlaramelo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanlaramelo/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:renanlaramelo@gmail.com)
 
 ## Habilidades 
