@@ -1,5 +1,5 @@
 # Renan Lara Melo
-*Estudante do Centro Universitário Facens, trabalho com RPA (python, UiPath, Power Automate) e estudo web development (NextJs, ReactJs, Typescript)*
+*Estudante do Centro Universitário Facens, trabalho com RPA (python, UiPath, Power Automate) e Desenvolvimento Web (NextJs, ReactJs, Typescript)*
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanlaramelo/)
